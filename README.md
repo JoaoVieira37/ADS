@@ -1,2 +1,86 @@
-# ADS
+# Algorithms and Data Structures
 A Collection of Algorithms and Data Structures Implementations in Different Languages
+
+
+## Sorting Algorithms
+
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort 
+- [ ] Bucket Sort
+- [ ] Radix Sort
+
+---
+---
+---
+
+- [ ] Static Arrays
+- [ ] Dynamic Arrays
+- [ ] Stacks
+- [ ] Singly Linked Lists
+- [ ] Doubly Linked Lists
+- [ ] Queues
+- [ ] Factorial
+- [ ] Fibonacci Sequence
+- [ ] Binary Search
+- [ ] Binary Trees
+- [ ] Binary Search Tree
+- [ ] BST Insert and Remove
+- [ ] DFS
+- [ ] BFS
+- [ ] BST Sets and Maps
+- [ ] Tree Maze
+- [ ] A*
+- [ ] Heaps
+- [ ] Hash Maps
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Kadane's Algorithm
+- [ ] Sliding Windows Fix/Variable Size
+- [ ] Prefix Sums
+- [ ] Trie
+- [ ] Dijkstra
+- [ ] Prim
+- [ ] Kruskal
+- [ ] Topological Sort
+- [ ] HeapSort
+- [ ] Counting Sort
+- [ ] Red-Black Trees
+- [ ] Interval Trees
+- [ ] Greedy Algorithms
+- [ ] B-Trees
+- [ ] Binomial Heaps
+- [ ] Fibonnaci Heaps
+- [ ] Cartesian Trees
+- [ ] Disjoint Sets
+- [ ] Union Find
+- [ ] Bellman Ford
+- [ ] Matrix Multiplication
+- [ ] Floyd-Warshall
+- [ ] Johnson
+- [ ] FordFulkerson
+- [ ] Push relabel
+- [ ] Relabel to Front
+- [ ] Sorting Networks
+- [ ] Linear Programming
+- [ ] Amortized Analysis
+- [ ] Polynomials FTT
+- [ ] naive String matching
+- [ ] rabin-karp
+- [ ] knuth-Morris-Pratt
+- [ ] Boruvka
+- [ ] Online String Search
+- [ ] Range Minimum Queries
+- [ ] Lowest Common Ancestor
+- [ ] Probabilist Techniques
+- [ ] Karger Stein
+- [ ] Jensen Inequality
+- [ ] Meldable Heaps
+- [ ] Splay Trees
+- [ ] Markov Chains
+- [ ] Random Walks
+- [ ] Uniform Sampling of Spanning Trees
+- [ ] Yao Minimax Principle
+- [ ] wavelet Trees
+- [ ] K2 Trees
+- [ ] Maze Pathfinding
